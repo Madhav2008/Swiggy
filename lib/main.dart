@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:swiggy_ui/views/tab_desktop/tab_screen.dart';
-
 import 'shared/app_theme.dart';
 import 'views/tab_desktop/desktop_screen.dart';
 import 'views/mobile/mobile_screen.dart';
