@@ -74,7 +74,7 @@ class _AppBar extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: <Widget>[
               Text(
-                'VINOTH',
+                'Madhav Arora',
                 style: Theme.of(context)
                     .textTheme
                     .headline6!
@@ -95,7 +95,7 @@ class _AppBar extends StatelessWidget {
           UIHelper.verticalSpaceSmall(),
           Row(
             children: <Widget>[
-              Text('8870123456', style: subtitleStyle),
+              Text('9999348666', style: subtitleStyle),
               UIHelper.horizontalSpaceSmall(),
               ClipOval(
                 child: Container(
@@ -105,7 +105,7 @@ class _AppBar extends StatelessWidget {
                 ),
               ),
               UIHelper.horizontalSpaceSmall(),
-              Text('vinothvino@icloud.com', style: subtitleStyle)
+              Text('aroramadhav65@gmail.com', style: subtitleStyle)
             ],
           ),
           UIHelper.verticalSpaceLarge(),
