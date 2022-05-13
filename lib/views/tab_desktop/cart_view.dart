@@ -77,7 +77,7 @@ class _UserHeader extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        'Vinoth',
+                        'Madhav Arora',
                         style: Theme.of(context).textTheme.headline6!.copyWith(
                             fontSize: 17.0, fontWeight: FontWeight.bold),
                       ),
